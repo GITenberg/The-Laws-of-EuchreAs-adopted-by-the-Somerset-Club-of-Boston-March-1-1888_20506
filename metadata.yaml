@@ -1,0 +1,34 @@
+_repo: The-Laws-of-EuchreAs-adopted-by-the-Somerset-Club-of-Boston-March-1-1888_20506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Leeds, Herbert Corey
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '9344'
+    url: http://www.gutenberg.org/2009/agents/9344
+  - agent_name: Dwight, James
+    birthdate: 1852
+    deathdate: 1917
+    gutenberg_agent_id: '9345'
+    url: http://www.gutenberg.org/2009/agents/9345
+description: ''
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20506'
+  lccn: '05023152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Euchre'
+title: 'The Laws of Euchre
+
+  As adopted by the Somerset Club of Boston, March 1, 1888'
+url: http://www.gutenberg.org/ebooks/20506
